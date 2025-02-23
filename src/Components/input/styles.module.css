@@ -1,0 +1,10 @@
+.container{
+    background-color: #f4e9d9;
+    border-radius: 5px;
+    padding : 0.3rem;
+    font-weight: 600;
+    margin-right: 4%;
+    margin-left: 3%;
+    width: 30vw;
+    height: 3vh
+}
